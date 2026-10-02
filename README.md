@@ -1,24 +1,188 @@
-<h1 align="center">Hi 👋, I'm Gaurav Kaushik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravcodes-tech&label=Profile%20views&color=0e75b6&style=flat" alt="gauravcodes-tech" /> </p>
+# Hi 👋, I'm Gaurav Kaushik
 
-- 🔭 I’m currently working on [Used-Cars](https://github.com/gauravcodes-tech/Used-Cars)
+### BCA Student • Full Stack Developer • Python & DSA Enthusiast
 
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on [https://github.com/gauravcodes-tech/Used-Cars](https://github.com/gauravcodes-tech/Used-Cars)
-
-- 💬 Ask me about **Full Stack Dev**
-
-- 📫 How to reach me **kaushikgaurav0776@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gaurav-kaushik-k0776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-kaushik-k0776" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/gauravcodes-tech">
+    <img src="https://komarev.com/ghpvc/?username=gauravcodes-tech&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/gauravcodes-tech?tab=followers">
+    <img src="https://img.shields.io/github/followers/gauravcodes-tech?label=Followers&style=flat-square&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/gauravcodes-tech?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-23-blue?style=flat-square&logo=github" alt="Repositories"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravcodes-tech&show_icons=true&locale=en&layout=compact" alt="gauravcodes-tech" /></p>
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BCA-(FSD) student focused on Software Development
+- 💻 Building Full Stack and Backend applications
+- 🚀 Currently building **Used-Cars**, a marketplace for used cars
+- 🌱 Currently learning **React.js, Backend Development & System Design**
+- 🧩 Interested in building practical and real-world software
+- 🎯 Working towards becoming a strong Software Engineer
+
+---
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+ 
+  <a href="https://www.linkedin.com/in/gaurav-kaushik-k0776?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:kaushikgaurav0776@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,c,cpp" alt="Languages"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend"/>
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Database"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" alt="Tools"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">⚡ Used-Cars</h3>
+
+<p align="center">
+ A marketplace for used cars.
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/gauravcodes-tech/Used-Cars">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">backend-project</h3>
+
+<p align="center">
+A web-based automobile project focused on creating a simple and user-friendly car browsing experience.
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+</p>
+
+<p align="center">
+
+<a href="[https://github.com/jatin87908/CarBazaar.com](https://github.com/gauravcodes-tech/backend-project)">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 DSA Problem Solving</h3>
+
+<p align="center">
+My daily Data Structures & Algorithms problem-solving journey with solutions implemented in Python.
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/gauravcodes-tech">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎓 Student Management System</h3>
+
+<p align="center">
+A student management project focused on handling and organizing student-related information.
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/gauravcodes-tech">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
