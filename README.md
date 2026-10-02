@@ -11,9 +11,7 @@
   <a href="https://github.com/gauravcodes-tech?tab=followers">
     <img src="https://img.shields.io/github/followers/gauravcodes-tech?label=Followers&style=flat-square&logo=github" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/gauravcodes-tech?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-23-blue?style=flat-square&logo=github" alt="Repositories"/>
-  </a>
+ 
 </p>
 
 </div>
