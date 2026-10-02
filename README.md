@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravcodes-tech&label=Profile%20views&color=0e75b6&style=flat" alt="gauravcodes-tech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravcodes-tech" alt="gauravcodes-tech" /></a> </p>
-
 - 🔭 I’m currently working on [Used-Cars](https://github.com/gauravcodes-tech/Used-Cars)
 
 - 🌱 I’m currently learning **Python**
