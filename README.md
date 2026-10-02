@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Gaurav Kaushik
 
-### BCA Student • Full Stack Developer • Python & DSA Enthusiast
+### BCA Student • Full Stack Developer • Cybersecurity Enthusiast
 
 <p>
   <a href="https://github.com/gauravcodes-tech">
