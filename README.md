@@ -112,7 +112,8 @@ A web-based automobile project focused on creating a simple and user-friendly ca
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<img src="https://skillicons.dev/icons?i=nodejs" />
 
 </p>
 
@@ -140,7 +141,7 @@ A basic Rock-Paper-Scissors Game , built with the help of HTML,CSS,JS.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 </p>
 
