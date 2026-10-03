@@ -147,7 +147,7 @@ A basic Rock-Paper-Scissors Game , built with the help of HTML,CSS,JS.
 
 <p align="center">
 
-<a href="https://github.com/gauravcodes-tech">
+<a href="https://github.com/gauravcodes-tech/Rock-Paper-Scissors">
 <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
@@ -165,7 +165,7 @@ A student management project focused on handling and organizing student-related 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
 
 </p>
 
