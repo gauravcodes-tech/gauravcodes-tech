@@ -132,10 +132,10 @@ A web-based automobile project focused on creating a simple and user-friendly ca
 
 <td width="50%" valign="top">
 
-<h3 align="center">🧠 DSA Problem Solving</h3>
+<h3 align="center">Rock-Paper-Scissors</h3>
 
 <p align="center">
-My daily Data Structures & Algorithms problem-solving journey with solutions implemented in Python.
+A basic Rock-Paper-Scissors Game , built with the help of HTML,CSS,JS.
 </p>
 
 <p align="center">
