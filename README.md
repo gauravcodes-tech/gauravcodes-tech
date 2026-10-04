@@ -70,7 +70,7 @@
 ### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" alt="Tools and Platforms"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,mongodbatlas" alt="Tools and Platforms"/>
 </p>
 
 ---
