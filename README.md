@@ -15,7 +15,6 @@
 
 * 🎓 Pursuing **BCA (Full Stack Development)** at Jagannath University NCR, Haryana
 * 💻 Interested in **Full Stack Development & Cybersecurity**
-* 🚀 Currently building **Used-Cars**, a used car marketplace
 * 🌱 Learning **React.js, Node.js, Backend Development & System Design**
 * 🔐 Passionate about **Cybersecurity, Network Security & Ethical Hacking**
 * 🧩 Enjoy building practical applications and exploring new technologies
