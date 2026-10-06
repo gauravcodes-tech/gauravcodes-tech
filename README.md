@@ -78,7 +78,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🚗 Used-Cars</h3>
       <p align="center">
-        A used car marketplace designed to provide a simple and user-friendly car browsing and selling experience.
+        A Used Car Marketplace designed to provide a simple and user-friendly car browsing and selling experience.
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="Tech Stack"/>
@@ -122,7 +122,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🎓 Student Management System</h3>
       <p align="center">
-        A student management project focused on organizing and managing student-related information.
+        A Student Management project focused on organizing and managing student-related information.
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
