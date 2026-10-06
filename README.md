@@ -13,12 +13,12 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Pursuing **BCA (Full Stack Development)** at Jagannath University NCR, Haryana
-* 💻 Interested in **Full Stack Development & Cybersecurity**
-* 🌱 Learning **React.js, Node.js, Backend Development & System Design**
-* 🔐 Passionate about **Cybersecurity, Network Security & Ethical Hacking**
-* 🧩 Enjoy building practical applications and exploring new technologies
-* 🎯 Aspiring to grow in **Software Development and Cybersecurity**
+* 🎓 Pursuing **BCA (Full Stack Development)** at Jagannath University NCR, Haryana.
+* 💻 Interested in **Full Stack Development & Cybersecurity.**
+* 🌱 Learning **React.js, Node.js, Backend Development & System Design.**
+* 🔐 Passionate about **Cybersecurity, Network Security & Ethical Hacking.**
+* 🧩 Enjoy building practical applications and exploring new technologies.
+* 🎯 Aspiring to grow in **Software Development and Cybersecurity.**
 
 ---
 
