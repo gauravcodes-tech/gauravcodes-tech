@@ -18,7 +18,8 @@
 * 🌱 Learning **React.js, Node.js, Backend Development & System Design.**
 * 🔐 Passionate about **Cybersecurity, Network Security & Ethical Hacking.**
 * 🧩 Enjoy building practical applications and exploring new technologies.
-* 🎯 Aspiring to grow in **Software Development and Cybersecurity.**
+* 🎯 Aspiring to grow in **Cybersecurity and Software Development.
+* 🔐 My main focus is Cybersecurity and networking.**
 
 ---
 
