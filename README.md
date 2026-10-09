@@ -77,7 +77,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚗 Used-Cars</h3>
+      <h3 align="center"> 🚗 Used-Cars </h3>
       <p align="center">
         A Used Car Marketplace designed to provide a simple and user-friendly car browsing and selling experience.
       </p>
@@ -91,7 +91,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ Backend Project</h3>
+      <h3 align="center"> ⚙️ Backend Project </h3>
       <p align="center">
         A web-based automobile project focused on creating a simple and user-friendly car browsing experience.
       </p>
@@ -107,7 +107,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 Rock-Paper-Scissors</h3>
+      <h3 align="center"> 🎮 Rock-Paper-Scissors </h3>
       <p align="center">
         A simple interactive Rock-Paper-Scissors game built using HTML, CSS and JavaScript.
       </p>
@@ -121,7 +121,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎓 Student Management System</h3>
+      <h3 align="center"> 🎓 Student Management System </h3>
       <p align="center">
         A Student Management project focused on organizing and managing student-related information.
       </p>
