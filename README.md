@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gaurav Kaushik
+# Hi 👋 , I'm Gaurav Kaushik
 
 ### 🎓 BCA Student | Full Stack Developer | Cybersecurity Enthusiast
 
