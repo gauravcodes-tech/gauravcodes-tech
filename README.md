@@ -142,11 +142,11 @@
 
 ## 🎯 Current Goals
 
-* 🌐 Improve my Full Stack and Backend Development skills
-* 🔐 Explore Cybersecurity, Network Security and Ethical Hacking
-* 🧠 Strengthen my problem-solving, networking and system design fundamentals
-* 🚀 Build practical projects that solve real-world problems
-* 📚 Continue learning and growing in the field of technology
+* 🌐 Improve my Full Stack and Backend Development skills.
+* 🔐 Explore Cybersecurity, Network Security and Ethical Hacking.
+* 🧠 Strengthen my problem-solving, networking and system design fundamentals.
+* 🚀 Build practical projects that solve real-world problems.
+* 📚 Continue learning and growing in the field of technology.
 
 ---
 
