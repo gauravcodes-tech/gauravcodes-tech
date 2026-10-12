@@ -1,6 +1,6 @@
-# Hi 👋 , I'm Gaurav Kaushik
+# Hi 👋, I'm Gaurav Kaushik
 
-### 🎓 BCA Student | Full Stack Developer | Cybersecurity Enthusiast
+### || 🎓 BCA Student | Full Stack Developer | Cybersecurity Enthusiast ||
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gauravcodes-tech&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
