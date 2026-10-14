@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Pursuing **BCA (Full Stack Development)** at Jagannath University NCR, Haryana.
+* 🎓 Pursuing **BCA (Full Stack Development)** at **Jagannath University NCR, Haryana.**
 * 💻 Interested in **Full Stack Development & Cybersecurity.**
 * 🌱 Learning **React.js, Node.js, Backend Development & System Design.**
 * 🔐 Passionate about **Cybersecurity, Network Security & Ethical Hacking.**
@@ -142,7 +142,7 @@
 
 ## 🎯 Current Goals
 
-* 🌐 Improve my Full Stack and Backend Development skills.
+* 🌐 **Improve my Full Stack and Backend Development skills.**
 * 🔐 Explore Cybersecurity, Network Security and Ethical Hacking.
 * 🧠 Strengthen my Problem-solving, networking and system design fundamentals.
 * 🚀 Build practical projects that solve real-world problems.
